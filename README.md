@@ -23,17 +23,25 @@ For a transparent usage:
 
 ## Direct import sample
 
-`import { BsFill0CircleFill } from "https://deno.land/x/react_icons_bs@1.0.1/mod.ts"`
+```ts
+import { BsFill0CircleFill } from "https://deno.land/x/react_icons_bs@1.0.1/mod.ts"
+```
 
 ## import_map import sample
 
-`import { BsFill0CircleFill } from "react-icons/bs"`
+```ts
+import { BsFill0CircleFill } from "react-icons/bs"
+```
 
 ## minimal import
 
-`import { BsFill0CircleFill } from "react-icons/bs/BsFill0CircleFill.ts"`
+```ts
+import { BsFill0CircleFill } from "react-icons/bs/BsFill0CircleFill.ts"
+```
 
-## minimal import default
+## minimal import using default export
 
-`import BsFill0CircleFill from "react-icons/bs/BsFill0CircleFill.ts"`
+```ts
+import BsFill0CircleFill from "react-icons/bs/BsFill0CircleFill.ts"
+```
 
