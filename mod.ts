@@ -17,7 +17,7 @@
  *   "imports": {
  *     "preact":  "https://esm.sh/preact@10.15.1",
  *     "preact/": "https://esm.sh/preact@10.15.1/",
- *     "react-icons/bs":  "https://cdn.jsdelivr.net/gh/urielch/react-icons-bs@1.0.1/mod.ts",
+ *     "react-icons/bs":  "https://cdn.jsdelivr.net/gh/urielch/react-icons-bs@1.0.2/mod.ts",
  *     "react-icons/bs/": "https://cdn.jsdelivr.net/gh/urielch/react-icons-bs/ico/",
  *   }
  * }
@@ -26,7 +26,7 @@
  * ## Direct import sample
  * 
  * ```ts
- * import { BsFill0CircleFill } from "https://deno.land/x/react_icons_bs@1.0.1/mod.ts"
+ * import { BsFill0CircleFill } from "https://deno.land/x/react_icons_bs@1.0.2/mod.ts"
  * ```
  * 
  * ## import_map import sample
