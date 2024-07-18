@@ -44,7 +44,7 @@
  * or using default export
  * 
  * ```ts
- * import BsFill0CircleFill from "react-icons/bs/BsFill0CircleFill.ts"
+ * import BsFill0CircleFill from "react-icons/bs/BsFill0CircleFill"
  * ```
  * @module
  * 
