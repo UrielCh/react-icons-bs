@@ -2,7 +2,7 @@
 /**
  * # Bootstrap Icons icons for preact
  * 
- * [![JSR](https://jsr.io/badges/@preact-icons/bs)](https://jsr.io/@preact-icons/name)
+ * [![JSR](https://jsr.io/badges/@preact-icons/bs)](https://jsr.io/@preact-icons/bs)
  * 
  * **License** [MIT](https://opensource.org/licenses/MIT)
  * 

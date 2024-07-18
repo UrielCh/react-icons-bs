@@ -1,6 +1,8 @@
 # Bootstrap Icons icons for preact
 
-[![JSR](https://jsr.io/badges/@preact-icons/bs)](https://jsr.io/@preact-icons/name)**License** [MIT](https://opensource.org/licenses/MIT)
+[![JSR](https://jsr.io/badges/@preact-icons/bs)](https://jsr.io/@preact-icons/bs)
+
+**License** [MIT](https://opensource.org/licenses/MIT)
 
 **Project** [https://github.com/twbs/icons](https://github.com/twbs/icons)
 
