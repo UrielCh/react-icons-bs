@@ -2,7 +2,7 @@
   "lock": false,
   "name": "@preact-icons/bs",
   "license": "MIT",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "exports": {
     ".": "./mod.ts",
     "./Bs0Circle": "./ico/Bs0Circle.ts",
